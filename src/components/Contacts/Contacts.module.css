@@ -1,0 +1,22 @@
+.list {
+  list-style: none;
+}
+.item {
+  font-size: 18px;
+  color: #093a3e;
+}
+.item:not(last-child) {
+  margin-bottom: 5px;
+}
+.button {
+  width: 100px;
+  margin-left: 20px;
+  padding: 5px;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 15px;
+  border-color: transparent;
+  outline: none;
+  background-color: #ff4f79;
+  color: #093a3e;
+}

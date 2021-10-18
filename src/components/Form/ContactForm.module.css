@@ -1,0 +1,33 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  font-size: 20px;
+}
+.label {
+  font-weight: 500;
+  color: #093a3e;
+}
+.input {
+  width: 300px;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  background-color: transparent;
+  border-radius: 15px;
+  border-color: #ff4f79;
+  outline: none;
+}
+.button {
+  margin-right: auto;
+  margin-left: auto;
+  width: 200px;
+  padding: 5px;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 15px;
+  border-color: transparent;
+  outline: none;
+  background-color: #ff4f79;
+  color: #093a3e;
+}
